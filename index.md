@@ -27,7 +27,6 @@ The signs can give us great insights into our day to day living as well as the m
 ---
 
 ## How to determin your sign?
-<br>
 <h4>
 - **Aries**       21 March     to 20 April
 - **Taurus**      21 April     to 21 May
@@ -43,5 +42,28 @@ The signs can give us great insights into our day to day living as well as the m
 - **Pisces**      20 February  to 20 March
 
 --- 
+
+## Mnemonics
+
+There are many mnemonics for remembering the 12 signs of the zodiac in order. A traditional mnemonic:
+
+The ram, the bull, the heavenly twins,<br>
+And next the crab, the lion shines,<br>
+The virgin and the scales,<br>
+The scorpion, archer, and the goat,<br>
+The man who holds the watering-pot,<br>
+And fish with glittering scales.
+
+A less poetic, but succinct mnemonic is the following:
+
+The Ramble Twins Crab Liverish;<br>
+Scaly Scorpions Are Good Water Fish.
+
+---
+
+## Try to use my online app to get your sign
+<br>
+<h4>
+link: https://machree.shinyapps.io/shinyproj/
 
 
